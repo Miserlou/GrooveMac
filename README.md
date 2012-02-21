@@ -1,4 +1,5 @@
 # GrooveMac
+## http://gun.io/blog/groovemac-groovedown-packaged-for-osx-aka-how-to-bundle-java-jar-programs-for-osx/
 
 A nicer GrooveDown.me package for OSX.
 
